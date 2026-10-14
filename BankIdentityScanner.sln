@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankIdentityScanner", "BankIdentityScanner\BankIdentityScanner.csproj", "{57FCD852-4C66-4220-85F4-9C08AD78F9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankIdentityScanner.Tests", "BankIdentityScanner.Tests\BankIdentityScanner.Tests.csproj", "{0E85E433-F368-41D3-8315-BC9FD4F80C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FCD852-4C66-4220-85F4-9C08AD78F9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FCD852-4C66-4220-85F4-9C08AD78F9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FCD852-4C66-4220-85F4-9C08AD78F9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FCD852-4C66-4220-85F4-9C08AD78F9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E85E433-F368-41D3-8315-BC9FD4F80C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E85E433-F368-41D3-8315-BC9FD4F80C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E85E433-F368-41D3-8315-BC9FD4F80C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E85E433-F368-41D3-8315-BC9FD4F80C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA05664C-C878-48D1-922C-86B36D7DF6E6}
+	EndGlobalSection
+EndGlobal
